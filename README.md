@@ -9,3 +9,23 @@ cheaper rates where there was spare capacity on the cell, however there is poten
 more strategic marketing ventures with the aim of growing revenue, minutes of use and/or market share.
 
 Many companies today collect vast amounts of data on customers and clientele, and have a strong desire to understand the meaningful relationships hidden in their customer base. Being equipped with this information can assist a company engineer future products and services that best satisfy the demands or needs of their customers.
+
+### Data
+This is the comminication call details which was collected throught different cell towers located in 9 provinces in South Africa. It is an hourly data collection for 24 hours for the period of three month. 
+
+### Features
+1. Cellclassification --- cell tower name, technology, clustertype, provinces
+2. cellsVec	 - Cell Names corresponding to the dataMatrix variables.
+3. timestampVec	 - Timestamps corresponding to the dataMatrix variables.
+4. onnetDurMatrix	 - Total minutes of use per cell, per hour.
+5. onnetRevMatrix	 - Total revenue of use per cell, per hour.
+6. onnetDiscMatrix	 - Discount applied per cell, per hour.
+7. erlangCombMatrix - Total combined erlang per cell, per hour
+8. capacity2Matrix	 - Total available capacity per cell, per hour.
+
+For this project we'll attempt to predict which channel each cell tower belongs to, so we won't look at this column until after we've segmented the data using clustering techniques.
+Instructions
+
+This project requires Python 2.7. All of the libraries used in this project are included in the Anaconda distribution of Python, it is highly suggested that you use Anaconda to manage packages and environments for data science with Python.
+
+When you're ready, fire up the notebook.
