@@ -26,6 +26,6 @@ This is the comminication call details which was collected throught different ce
 For this project we'll attempt to predict which channel each cell tower belongs to, so we won't look at this column until after we've segmented the data using clustering techniques.
 Instructions
 
-This project requires Python 2.7. All of the libraries used in this project are included in the Anaconda distribution of Python, it is highly suggested that you use Anaconda to manage packages and environments for data science with Python.
+This project requires Python 2.7. All of the libraries used in this project are included in the [Anaconda](https://docs.anaconda.com/anaconda/packages/pkg-docs/) distribution of Python, it is highly suggested that you use Anaconda to manage packages and environments for data science with Python.
 
 When you're ready, fire up the notebook.
