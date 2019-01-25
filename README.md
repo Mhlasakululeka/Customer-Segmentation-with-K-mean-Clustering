@@ -28,4 +28,4 @@ Instructions
 
 This project requires Python 2.7. All of the libraries used in this project are included in the [Anaconda](https://docs.anaconda.com/anaconda/packages/pkg-docs/) distribution of Python, it is highly suggested that you use Anaconda to manage packages and environments for data science with Python.
 
-When you're ready, fire up the notebook.
+
